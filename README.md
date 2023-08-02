@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-Play Tic Tac Toe game from command line interface , created in python3.............................
+Play Tic Tac Toe game using in python3.............................
 # Define grid() funtion to print game board dynamically
 # Defile computer_play() funtion for playing computer part
 # Defile human_play() funtion for playing player part
